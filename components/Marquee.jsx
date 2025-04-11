@@ -2,11 +2,11 @@ import React from "react";
 import { motion } from "framer-motion";
 
 const data = [
-  { title: "Prime", img: "../src/assets/prime.png", alt: "Prime" },
-  { title: "Studio", img: "../src/assets/studio.png", alt: "Studio" },
-  { title: "Union", img: "../src/assets/union.png", alt: "Union" },
-  { title: "Junior", img: "../src/assets/junior.png", alt: "Junior" },
-  { title: "Pixel", img: "../src/assets/pixel.png", alt: "Pixel" },
+  { title: "Prime", img: "/prime.png", alt: "Prime" },
+  { title: "Studio", img: "/studio.png", alt: "Studio" },
+  { title: "Union", img: "/union.png", alt: "Union" },
+  { title: "Junior", img: "/junior.png", alt: "Junior" },
+  { title: "Pixel", img: "/pixel.png", alt: "Pixel" },
 ];
 
 const MarqueeItem = () => {

@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronDown, Menu, X } from "lucide-react";
-import Logo from "../src/assets/logo.svg";
+import Logo from "/logo.svg";
 
 const navItems = [
   {

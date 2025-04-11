@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import bgGif from "../src/assets/hero.gif";
+import bgGif from "/hero.gif";
 
 export default function HeroSection() {
   return (
